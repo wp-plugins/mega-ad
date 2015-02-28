@@ -43,11 +43,3 @@ Add read me.
 
 = 0.5 =
 Initial commit.
-
-== Upgrade Notice ==
-
-== Arbitrary section ==
-
-== A brief Markdown Example ==
-
-`<?php code(); // goes in backticks ?>`
