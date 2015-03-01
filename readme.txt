@@ -8,11 +8,15 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin creates a full screen ad with an expiration date.
+This plugin creates a full screen ad with an expiration date without cloaking.
 
 == Description ==
 
-This plugin creates a full screen ad with an expiration date. All you have to do is add a link, image and expiration and you can have a full screen ad with a cookie.
+This plugin creates a full screen ad with an expiration date without cloaking. All you have to do is add a link, image and expiration and you can have a full screen ad with a cookie.
+
+There are plugins out there that create separate full page ads or landing pages versus what Google sees. So the plugin would show the user one page while showing another page to a search engine. This can be called cloaking which is never really a good strategy to show ads or landing pages. 
+
+This plugin doesn’t create landing pages. This plugin creates full page ads to promote your product or service without cloaking.
 
 == Installation ==
 
